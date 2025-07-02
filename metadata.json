@@ -1,0 +1,6 @@
+{
+  "name": "Sherlock Holmes: The Digital Detective",
+  "description": "An interactive mystery game where you play as Sherlock Holmes, solving a case by making choices that shape the narrative. Powered by Gemini, each game is a unique story.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
