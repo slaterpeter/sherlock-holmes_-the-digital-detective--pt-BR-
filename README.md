@@ -23,6 +23,12 @@ Um jogo interativo de mistério baseado em texto que utiliza IA generativa para 
 3. **Coleta de Pistas**: Evidências importantes são automaticamente adicionadas ao painel de pistas
 4. **Resolução**: O mistério se desenvolve ao longo de 10-15 interações até a conclusão
 
+### Screenshots
+
+![screenshot1](https://github.com/slaterpeter/sherlock-holmes_-the-digital-detective--pt-BR-/blob/master/img/screenshot1.jpg)
+
+![Screenshot 2](./img/screenshot2.jpg)
+
 ## 🚀 Tecnologias e Técnicas Utilizadas
 
 ### Frontend
