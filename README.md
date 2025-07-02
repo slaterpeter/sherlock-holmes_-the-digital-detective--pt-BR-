@@ -2,6 +2,8 @@
 
 Um jogo interativo de mistério baseado em texto que utiliza IA generativa para criar narrativas dinâmicas no universo de Sherlock Holmes. Este projeto demonstra a integração de tecnologias modernas de frontend com APIs de IA para criar experiências narrativas imersivas.
 
+🎮 **[JOGAR AGORA - DEMO AO VIVO](https://sherlock-holmes-the-digital-detecti.vercel.app)**
+
 ![React](https://img.shields.io/badge/React-19.1.0-61dafb?style=flat&logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.7.2-3178c6?style=flat&logo=typescript&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-6.2.0-646cff?style=flat&logo=vite&logoColor=white)
