@@ -177,7 +177,7 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para de
 
 **[Seu Nome]**
 - GitHub: [@slaterpeter](https://github.com/slaterpeter)
-- LinkedIn: [Seu Perfil](https://linkedin.com/in/slaterpeter)
+- LinkedIn: [Acessar](https://linkedin.com/in/slaterpeter)
 - Email: slater.psp@gmail.com
 
 ## 🙏 Agradecimentos
